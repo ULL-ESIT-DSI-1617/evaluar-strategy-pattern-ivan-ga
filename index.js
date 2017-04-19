@@ -20,6 +20,8 @@ var sh = require('./shapesarea.js');
 
   }
 
+  module.exports = {calcula: calcula}
+
 
 ///////////////////////////////////////////////////////////////////
 
