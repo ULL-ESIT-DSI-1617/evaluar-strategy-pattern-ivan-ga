@@ -19,5 +19,5 @@ describe("Cálculo de áreas", function() {
     /* There is a white space between consecutive columns */
     result.should.match(/^20$/);
   })
-  
+
 });
